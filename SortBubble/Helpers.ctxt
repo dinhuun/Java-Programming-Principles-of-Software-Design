@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=list\ numSorted
+comment0.target=void\ bubbleSortByMag(java.util.ArrayList,\ int)
+comment1.params=list
+comment1.target=boolean\ checkInOrderByMag(java.util.ArrayList)
+numComments=2

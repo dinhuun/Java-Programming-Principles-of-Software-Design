@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=quakes
+comment0.target=void\ sortByMag(java.util.ArrayList)
+comment1.params=quakes
+comment1.target=void\ sortByMagWithCheck(java.util.ArrayList)
+comment2.params=filename
+comment2.target=void\ testsortByMag(java.lang.String)
+comment3.params=filename
+comment3.target=void\ testsortByMagWithCheck(java.lang.String)
+numComments=4

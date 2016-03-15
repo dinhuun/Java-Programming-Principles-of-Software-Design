@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=words\ lead\ start
+comment0.target=int\ indexOf(java.lang.String[],\ WordGram,\ int)
+comment1.params=s
+comment1.target=void\ printOut(java.lang.String)
+comment2.params=map
+comment2.target=java.util.HashMap\ sizeOfEachImage(java.util.HashMap)
+comment3.params=map
+comment3.target=int\ maxValue(java.util.HashMap)
+comment4.params=map\ value
+comment4.target=WordGram\ inverseImage(java.util.HashMap,\ int)
+numComments=5

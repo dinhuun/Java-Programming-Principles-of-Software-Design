@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=filename\ entryposition
+comment0.target=void\ sortByCompareTo(java.lang.String,\ int)
+comment1.params=filename
+comment1.target=void\ sortByMagnitude(java.lang.String)
+comment2.params=filename
+comment2.target=void\ sortByDepth(java.lang.String)
+comment3.params=filename\ lat\ lon
+comment3.target=void\ sortByDist(java.lang.String,\ double,\ double)
+comment4.params=filename\ entryposition
+comment4.target=void\ sortByMagAndDepth(java.lang.String,\ int)
+comment5.params=filename\ entryposition
+comment5.target=void\ sortByTitleAndDepth(java.lang.String,\ int)
+comment6.params=filename\ entryposition
+comment6.target=void\ sortByLastWordAndMag(java.lang.String,\ int)
+numComments=7

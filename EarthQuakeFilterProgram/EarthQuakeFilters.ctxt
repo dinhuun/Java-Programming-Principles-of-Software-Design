@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EarthQuakeFilters()
+comment1.params=
+comment1.target=void\ createCSV()
+comment10.params=
+comment10.target=void\ filterBySome2()
+comment2.params=list
+comment2.target=void\ dumpCSV(java.util.ArrayList)
+comment3.params=quakeData\ f
+comment3.target=java.util.ArrayList\ filter(java.util.ArrayList,\ Filter)
+comment4.params=filename\ min
+comment4.target=void\ filterByMagMin(java.lang.String,\ int)
+comment5.params=filename\ min\ max
+comment5.target=void\ filterByMagMinMax(java.lang.String,\ double,\ double)
+comment6.params=filename\ min\ max
+comment6.target=void\ filterByDepthMinMax(java.lang.String,\ double,\ double)
+comment7.params=filename\ lat\ lon\ dist
+comment7.target=void\ filterByDistMax(java.lang.String,\ double,\ double,\ int)
+comment8.params=filename\ at\ s
+comment8.target=void\ filterByPhrase(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment9.params=
+comment9.target=void\ filterBySome1()
+numComments=11

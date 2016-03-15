@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=in
+comment0.target=java.util.ArrayList\ sortByMag(java.util.ArrayList)
+comment1.params=in
+comment1.target=java.util.ArrayList\ sortByMagWithCheck(java.util.ArrayList)
+comment2.params=filename
+comment2.target=void\ testsortByMag(java.lang.String)
+comment3.params=filename
+comment3.target=void\ testsortByMagWithCheck(java.lang.String)
+comment4.params=filename
+comment4.target=void\ createCSV(java.lang.String)
+comment5.params=list
+comment5.target=void\ dumpCSV(java.util.ArrayList)
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=markov\ seed\ text\ generatedsize
+comment0.target=void\ runModel(IMarkovModel,\ int,\ java.lang.String,\ int)
+comment1.params=seed\ generatedsize\ N
+comment1.target=void\ runMarkovModels(int,\ int,\ int)
+comment2.params=seed\ generatedsize\ N
+comment2.target=void\ testHashMap(int,\ int,\ int)
+comment3.params=seed\ generatedsize\ N
+comment3.target=void\ compareMMvsMME(int,\ int,\ int)
+numComments=4

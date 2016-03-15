@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=words\ lead\ start
+comment0.target=int\ indexOfOne(java.lang.String[],\ java.lang.String,\ int)
+comment1.params=words\ lead0\ lead1\ start
+comment1.target=int\ indexOfTwo(java.lang.String[],\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=s
+comment2.target=void\ printOut(java.lang.String)
+numComments=3

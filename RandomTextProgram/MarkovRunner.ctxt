@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testgetFollows()
+comment1.params=lead
+comment1.target=void\ testgetFollowsWithFile(java.lang.String)
+comment2.params=seed\ generatedsize
+comment2.target=void\ runMarkovZero(int,\ int)
+comment3.params=seed\ generatedsize
+comment3.target=void\ runMarkovOne(int,\ int)
+comment4.params=seed\ generatedsize
+comment4.target=void\ runMarkovTwo(int,\ int)
+comment5.params=seed\ generatedsize
+comment5.target=void\ runMarkovFour(int,\ int)
+comment6.params=seed\ generatedsize\ N
+comment6.target=void\ runMarkovN(int,\ int,\ int)
+numComments=7
